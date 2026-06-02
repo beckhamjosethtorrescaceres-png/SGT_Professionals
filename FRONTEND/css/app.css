@@ -1,0 +1,12 @@
+#app{
+    display: flex;
+    flex: 1;
+    padding: 20px;
+    background-color: #9E9E9E;
+    overflow-y: auto;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    }

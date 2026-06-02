@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Carlos",
+      "email": "admin@correo.com",
+      "password": "123456789",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Luis",
+      "email": "tecnico@correo.com",
+      "password": "123456789",
+      "role": "tecnico"
+    }
+  ]
+}
