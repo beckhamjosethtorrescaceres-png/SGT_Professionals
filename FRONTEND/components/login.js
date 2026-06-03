@@ -45,3 +45,4 @@ export function vistas (rol) {
         window.location.href =""
     }
 }
+// hola mundo
