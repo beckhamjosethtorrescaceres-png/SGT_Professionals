@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Admin Principal",
+      "email": "admin@soporte.com",
+      "password": "admin123",
+      "roleId": "r1"
+    },
+    {
+      "id": "u2",
+      "name": "Carlos Técnico",
+      "email": "carlos@soporte.com",
+      "password": "tecnico123",
+      "roleId": "r2"
+    },
+    {
+      "id": "u3",
+      "name": "Laura Técnico",
+      "email": "laura@soporte.com",
+      "password": "tecnico123",
+      "roleId": "r2"
+    }
+  ],
+  "roles": [
+    { "id": "r1", "name": "admin",    "description": "Acceso total al sistema" },
+    { "id": "r2", "name": "tecnico",  "description": "Gestión de tickets propios" },
+    { "id": "r3", "name": "cliente",  "description": "Reporte y seguimiento de tickets" }
+  ]
+}

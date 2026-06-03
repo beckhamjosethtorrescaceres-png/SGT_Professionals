@@ -1,0 +1,26 @@
+{
+  "tickets": [
+    {
+      "id": "t1",
+      "name": "Fallo en impresora oficina 3",
+      "type": "incidente",
+      "description": "La impresora no responde desde ayer.",
+      "status": "asignado",
+      "clientId": "u4",
+      "technicianId": "u2",
+      "createdAt": "2025-06-01T09:00:00Z",
+      "updatedAt": "2025-06-01T11:00:00Z"
+    },
+    {
+      "id": "t2",
+      "name": "Solicitud de nuevo equipo",
+      "type": "requerimiento",
+      "description": "Se requiere un monitor adicional.",
+      "status": "en proceso",
+      "clientId": "u4",
+      "technicianId": null,
+      "createdAt": "2025-06-02T08:00:00Z",
+      "updatedAt": "2025-06-02T08:00:00Z"
+    }
+  ]
+}

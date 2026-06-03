@@ -13,3 +13,4 @@ export function toggle() {
     eyeIcon.innerHTML = show ? eyeClosed : eyeOpen;
   });
 }
+
