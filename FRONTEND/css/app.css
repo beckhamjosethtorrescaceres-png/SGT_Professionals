@@ -1,8 +1,8 @@
 #app{
     display: flex;
     flex: 1;
-    padding: 20px;
-    background-color: #9E9E9E;
+    padding: 0;
+    background-color: #f4f7fb;
     overflow-y: auto;
     flex-direction: column;
     flex-wrap: wrap;

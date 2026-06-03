@@ -10,6 +10,7 @@ import { renderLogin } from './pages/login.js';
  */
 const routes = {
     '/': renderLogin,
+    '/index.html': renderLogin
 };
 
 /**
